@@ -2,3 +2,4 @@
 *.a
 *.3
 !crypt_blowfish/crypt.3
+build
